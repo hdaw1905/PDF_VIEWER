@@ -1,0 +1,32 @@
+By Husham Eina@2024
+
+Requirements
+- Python : The application requires Python 3.6 or later to run. Python 2.x is not supported.
+
+Libraries
+- The following Python libraries must be installed:
+
+- Tkinter: For building the GUI. Comes bundled with Python.
+- PDFMiner: For parsing and rendering PDF content. Install with pip install pdfminer.six.
+
+Files
+- PDF documents to view and navigate.
+- Image assets for UI elements like buttons and icons.
+- Assets are included in the code repository but can also be stored separately.
+
+Operating Systems
+The app is tested to run on:
+
+- Windows 10
+- macOS 11+
+- Linux (Ubuntu, Debian, etc.)
+  It utilizes standard Tkinter APIs so should be compatible with any OS where Python and its dependencies above are supported.
+
+
+Instructions: 
+- Install Python and library dependencies
+- Run the Python script
+- Browse to a PDF file
+- Navigate pages
+
+By meeting the above requirements, you can successfully execute the app code to launch the PDF viewer. Let me know if any part needs clarification!
